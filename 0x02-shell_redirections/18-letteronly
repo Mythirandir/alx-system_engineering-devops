@@ -1,2 +1,2 @@
 #!/bin/bash
-tr [:alpha:]
+echo tr [:alpha:] /etc/ssh/sshd_config
